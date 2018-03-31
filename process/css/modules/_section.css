@@ -1,0 +1,38 @@
+.section {
+
+
+  .title{
+    font-size: .9rem;
+    color: $mid-gray;
+    text-align: left;
+    margin-left: 20%;
+  }
+
+
+  @media $small {
+    font-size: 2rem;
+  }
+
+  .headline {
+
+   font-size: 2rem;
+   text-align: left;
+   line-height: 2.8rem;
+
+  }
+
+  em, a {
+    font-size: 140%;
+    vertical-align: -6%;
+  }
+
+
+}
+
+.p-content{
+  text-align: left;
+  max-width: 20em;
+  padding-top: 4em;
+}
+
+

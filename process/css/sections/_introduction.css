@@ -1,0 +1,23 @@
+#introduction {
+  background-color: $color-background;
+  padding-top: 2em;
+
+  /* @media $large {
+    background-image: url('../images/employees/HenryTwill_outline.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 30% auto;
+    min-height: 100vh; */
+
+
+  }
+
+  .headline {
+    font-size: 1.5rem;
+    text-align: left;
+    line-height: 2.8rem;
+  }
+
+
+
+

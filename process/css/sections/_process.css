@@ -1,0 +1,22 @@
+#process {
+  color: $color-background;
+  font-size: 2rem;
+  background-color: $color-background-guarantee;
+
+  .imageheader {
+    @mixin backImage '../images/backgrounds/cycling.jpg', 60vh, transparent, $color-background-guarantee, bottom, center;
+  }
+
+  .headline {
+    color: color($yellow tint(15%));
+  }
+
+  a {
+    color: color($yellow tint(30%));
+  }
+
+}
+
+.process {
+  background: black; n
+}
